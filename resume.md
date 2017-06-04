@@ -5,38 +5,35 @@ andrei.avk@gmail.com
 
 https://github.com/akulakov
 
-A software architect with 7 years of professional experience.
+A software developer with 7 years of professional experience.
 
 
-Skills
+Qualifications
 ---
 
-Python, Django, JQuery, PostgreSQL, CSS, HTML, AWS, celery.
+Python, Django, jQuery, PostgreSQL, CSS, HTML, AWS, Celery, Javascript.
 
 Professional Experience
 ---
 
-### Jan 2015 - Present: Medical Knowledge Group, Python / Django dev
+### Oct 2016 - Feb 2017: Medical Knowledge Group, Python / Django dev
+* same as below but on part-time contracting basis
+
+### Jan 2015 - May 2016: Medical Knowledge Group, Python / Django dev
 
 * Designed and maintained multiple internal and external web sites providing dashboards, analytics,
-  scheduling, email funtionality.
+  scheduling, email functionality.
 
-* Designed and implemented REST APIs for iOS app and single-page web apps.
+* Designed and implemented RESTful APIs for iOS app and single-page web apps.
 
-* Lead an effort to optimize and refactor a machine learning system implemented in C++, resulting in 32%
+* Led an effort to optimize and refactor a machine learning system implemented in C++, resulting in 58%
   performance improvement.
 
-* Assisted other developers with debugging, unit testing and maintaining existing sites and designing new sites / APIs.
-
-* Designed and implemented unit tests and documentation for new sites; improved test coverage of existing sites.
-
-### 2015: Django contributions
-
-* ~10 commits accepted for Django 1.9: https://github.com/django/django/commits?author=akulakov
+* Assisted other developers with debugging and maintaining existing sites and designing new sites / APIs.
 
 ### Jan 2013: Freelance programming
 
-* Designed a linguistic sound (phoneme) translation processing system.
+* Designed a linguistic sound (phoneme-based) translation system.
 
 ### Jan 2009 – ~Jan 2015: Contracting work for PreFab software and Gen9
 
@@ -62,7 +59,6 @@ Professional Experience
 * Implemented an internal HR Django site for Progressive Change Campaign Committee (PCCC), implemented and
     managed a site for review and cleanup of phone message recordings.
 
-    
 ### May 2008 – Jan 2009
 
 * Lead developer for an HVAC control system: designed, maintained and tested a thermostat control /
