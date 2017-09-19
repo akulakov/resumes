@@ -46,7 +46,7 @@ Professional Experience
 * Built various small apps utilizing AWS APIs, Google Custom Search Engine.
 
 
-### Jan 2009 – 2010: Freelance programming (FarStar / ExxonMobil)
+### Jan 2012 – 2013: Freelance programming (FarStar / ExxonMobil)
 
 * Built two photo contest sites with administration / review portals for ExxonMobil.
 
