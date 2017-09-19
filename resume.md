@@ -16,10 +16,10 @@ Python, Django, jQuery, PostgreSQL, CSS, HTML, AWS, Celery, Javascript.
 Professional Experience
 ---
 
-### Oct 2016 - Feb 2017: Medical Knowledge Group, Python / Django dev
+### Oct 2016 - Feb 2017: Medical Knowledge Group, Contractor / Developer
 * same as below but on part-time contracting basis
 
-### Jan 2015 - May 2016: Medical Knowledge Group, Python / Django dev
+### Jan 2015 - May 2016: Medical Knowledge Group, Senior Developer
 
 * Designed and maintained multiple internal and external web sites providing dashboards, analytics,
   scheduling, email functionality.
