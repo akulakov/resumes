@@ -50,7 +50,7 @@ Professional Experience
 
 * Built two photo contest sites with administration / review portals for ExxonMobil.
 
-* Imlemented a small CMS site.
+* Implemented a small CMS site.
 
 * Implemented a new version of a promotion / redemption site for Nokia.
 
