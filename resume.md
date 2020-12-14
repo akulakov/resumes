@@ -5,7 +5,7 @@ andrei.avk@gmail.com
 
 https://github.com/akulakov
 
-A software developer with 11 years of professional experience.
+Software engineer with 11 years of professional experience.
 
 
 Qualifications
