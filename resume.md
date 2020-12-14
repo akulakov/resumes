@@ -16,7 +16,11 @@ Python, Django, jQuery, PostgreSQL, CSS, HTML, AWS, Celery, Javascript.
 Professional Experience
 ---
 
-### Jun 2017 - Dec 2020 - Senior Software Engineer, hellomymo.com
+### Nov 2019 - Dec 2020: Software Engineer, Contract work for hellomymo.com
+
+* similar work for Mymo as listed below (Python / Django / MySQL).
+
+### Jun 2017 - Oct 2019: Senior Software Engineer, hellomymo.com
 
 * Took over and completed transition to a more efficient and maintainable generation of reschedules.
 
